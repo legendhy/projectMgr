@@ -22,7 +22,7 @@
 -(void) touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
     NSLog(@"test version 1");
-    NSLog(@"test version 2");
+    NSLog(@"test version test");
 }
 
 - (void)didReceiveMemoryWarning {
